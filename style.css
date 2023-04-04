@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Fredoka', sans-serif;
+    background-color: #878787;
+}
+
+.btn{
+    padding: 15px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    color:  black;
+    background-color: bisque;
+    font-family: 'Fredoka', sans-serif;
+    font-size: x-large;
+    width: 60px;
+}
+
+.row{
+    margin: 8px;
+}
+
+.row input{
+    width: 250px;
+    margin: 0;
+    padding: 6px 10px;
+    border: 2px solid black;
+    border-radius:9px ;
+    background-color: bisque;
+    font-size: medium;
+}
